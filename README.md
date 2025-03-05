@@ -46,11 +46,4 @@ This is a simple Java-based deck of cards simulation that allows users to intera
 Enter your choice (1-9):
 ```
 
-## Author
-**Anjal Poudel**
-- PRN: 23070126171
-- Batch: AIML(A3)
-
-## License
-This project is open-source and free to use for educational purposes.
 
