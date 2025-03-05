@@ -1,3 +1,7 @@
+// Name: Anjal Poudel
+// PRN: 23070126171
+// Batch: AIML(A3)
+
 import java.util.*;
 
 public class Main {
